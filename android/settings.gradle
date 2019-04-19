@@ -1,0 +1,3 @@
+rootProject.name = 'ferry_test_2437'
+
+include ':app'
